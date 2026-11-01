@@ -1,4 +1,4 @@
 baseURL = 'https://afabl.eth.limo/'
 locale = 'ja-jp'
 title = "afabl.eth's Portfolio"
-theme = 'ananke'
+theme = 'introduction'

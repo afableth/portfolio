@@ -1,3 +1,5 @@
 .direnv/
 site/public
 site/.hugo_build.lock
+site/node_modules
+site/resources
