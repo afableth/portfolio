@@ -1,2 +1,3 @@
 .direnv/
 site/_site/
+site/node_modules/
